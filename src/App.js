@@ -12,7 +12,7 @@ function App() {
     <div>
       <Navbar title='Gallery.'/>
     <div className="App">
-      < Header title="Welcome to my Gallery" />
+      <Header title="Welcome to my Gallery" />
       < Content />
       <Footer />
     </div>

@@ -28,16 +28,21 @@ function Content() {
         <div><img src="/image/logo.jpeg" className='logo1' alt=''/></div>
         <div><img src='/image/logo1.jpeg' className='logo1' alt=''/></div>
         <div><img src='/image/logo2.jpeg' className='logo1' alt=''/></div>
-        <div><img src='/image/logo3.jpeg' className='logo1' alt=''/></div>
         <div><img src='/image/logo4.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo4.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo5.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo5.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo5.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo5.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo5.jpeg' className='logo1' alt=''/></div>
         <div><img src='/image/logo5.jpeg' className='logo1' alt=''/></div>
       </Carousel>
 
       <Carousel responsive={responsive}>
-        <div><img src="/image/logo6.jpeg" className='logo1' alt=''/></div>
-        <div><img src='/image/logo2.jpeg' className='logo1' alt=''/></div>
+        <div><img src="/image/logo.jpeg" className='logo1' alt=''/></div>
         <div><img src='/image/logo3.jpeg' className='logo1' alt=''/></div>
-        <div><img src='/image/logo4.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo13.jpeg' className='logo1' alt=''/></div>
+        <div><img src='/image/logo1.jpeg' className='logo1' alt=''/></div>
         <div><img src='/image/logo1.jpeg' className='logo1' alt=''/></div>
         <div><img src='/image/logo11.jpeg'className='logo1' alt=''/></div>
       </Carousel>
